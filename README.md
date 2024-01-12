@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Python/.
 -->
 - 🍻 Info System Students
-- ✍️ [Website](lennonzhang.github.io/)
+- ✍️ [Website](https://lennonzhang.github.io/)
 - 🏃 Football / Badminton
 - ♟ Holdem
